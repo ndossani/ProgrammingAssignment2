@@ -57,7 +57,3 @@ The process I went through took the following steps:
     the completed R code for the assignment.
 
 
-
-
-
-T
